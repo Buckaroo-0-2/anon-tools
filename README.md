@@ -1,8 +1,8 @@
 # anon-tools
 
-Tested in Kali
+Tested in latest kali and ParrotOS
 
-Download in kali
+Download in kali or parrot
 chmod 777 anon-tools-install
 ./anon-tools-install
 
